@@ -1,6 +1,6 @@
 # TheFairDraw
 
-Meet the proof of nothing: *A zero-token, zero-state, fully deterministic fairness protocol.*  
+Meet Proof of Nothing: *A zero-token, zero-state, fully deterministic fairness protocol.*  
 Free to use. Open-source forever. No tracking, no monetization, no hidden agenda.
 
 ---
