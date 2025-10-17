@@ -50,14 +50,14 @@ If in doubt, read the source code or fork it.
 
 ---
 
-## 📜 License
+##  License
 
 MIT License.  
 Use it, remix it, audit it, abuse it — as long as you don’t break the license.
 
 ---
 
-## 🛑 Reminder
+##  Reminder
 
 TheFairDraw is offered as-is, for public utility.  
 There is no support system, no roadmap, no obligation to reply to inquiries.  
