@@ -1,13 +1,13 @@
 # TheFairDraw
 
 Meet Proof of Nothing: *A zero-token, zero-state, fully deterministic fairness protocol.*  
-Free to use. Open-source forever. No tracking, no monetization, no hidden agenda.
+Free to use. Open Source forever. No tracking, no monetization, no hidden agenda.
 
 ---
 
 ##  What is TheFairDraw?
 
-TheFairDraw is a *stateless, deterministic draw engine* designed for public verifiability and trustless randomness — without oracles, tokens, or any financial infrastructure.
+TheFairDraw is a *stateless, deterministic draw engine* designed for public verifiability and trustless randomness  without oracles, tokens, or any financial infrastructure.
 
 Each draw takes:
 - A list of participants (any size up to 1 million items)
@@ -53,7 +53,7 @@ If in doubt, read the source code or fork it.
 ##  License
 
 MIT License.  
-Use it, remix it, audit it, abuse it — as long as you don’t break the license.
+Use it, remix it, audit it, abuse it (as long as you don’t break the license.)
 
 ---
 
