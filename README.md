@@ -64,5 +64,9 @@ Use it, remix it, audit it, abuse it — as long as you don’t break the licens
 TheFairDraw is offered as-is, for public utility.  
 There is no support system, no roadmap, no obligation to reply to inquiries.  
 It is not a product. It is a protocol.
+draw.js → Generates the result using the provided list and ephemeral seed.
+verify.js → Verifies any result using the same inputs.
+
+No backend. No state. No token. Just math
 
 Use responsibly. Fork if necessary. Stay fair.
