@@ -1,13 +1,11 @@
-## Hi there 👋
-
 # TheFairDraw
 
-*A zero-token, zero-state, fully deterministic fairness protocol.*  
+Meet the proof of nothing: *A zero-token, zero-state, fully deterministic fairness protocol.*  
 Free to use. Open-source forever. No tracking, no monetization, no hidden agenda.
 
 ---
 
-## ✳️ What is TheFairDraw?
+##  What is TheFairDraw?
 
 TheFairDraw is a *stateless, deterministic draw engine* designed for public verifiability and trustless randomness — without oracles, tokens, or any financial infrastructure.
 
@@ -23,7 +21,7 @@ You can verify any draw using:
 
 ---
 
-## ⚙️ How does it work?
+##  How does it work?
 
 1. A *secure ephemeral seed* is generated on the client at the time of the draw.
 2. The list is hashed together with the seed using SHA-256.
@@ -34,7 +32,7 @@ All logic is *open-source* and runs entirely in-browser. No API keys, no central
 
 ---
 
-## 🚫 No Tokens. No Donations.
+##  No Tokens. No Donations.
 
 - TheFairDraw has *no cryptocurrency token*, governance coin, or utility asset.
 - No donation wallets are provided or endorsed.  
@@ -42,7 +40,7 @@ All logic is *open-source* and runs entirely in-browser. No API keys, no central
 
 ---
 
-## 🔒 Trust Model
+##  Trust Model
 
 - You should *not trust this site*. You should verify.
 - All draws can be reproduced using the same input and seed.
